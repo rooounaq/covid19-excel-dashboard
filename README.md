@@ -2,7 +2,7 @@
 
 An Excel-based analysis of how 187 countries handled the COVID-19 pandemic during 2020–21, built from the perspective of a Junior Data Analyst at a public health agency.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Screenshot%202026-11-26%20143311.png)
 
 ## Objective
 Clean, analyze and visualize country-level COVID-19 data to find patterns in spread and recovery, and recommend focus areas for pandemic control.
@@ -55,7 +55,7 @@ Clean, analyze and visualize country-level COVID-19 data to find patterns in spr
 | File | Description |
 |---|---|
 | `COVID19_Dashboard.xlsx` | Full workbook: data, pivot tables, lookups, dashboard and reflections |
-| `images/dashboard.png` | Dashboard screenshot |
+| `images/` | Dashboard screenshot |
 
 ## Tools
 Microsoft Excel · Pivot Tables · IF/IFS · VLOOKUP/HLOOKUP · Conditional Formatting · Charts
